@@ -3,6 +3,11 @@
  <div align="center">
 <img src="https://media.giphy.com/media/zkRQ24mPZ1HvHj9pZ6/giphy.gif" width="300" alt="jokes GIF">
  </div>
+ <div align="center">
+ <h1 align="center"> Look at my Leetcode Profile</h1>
+ <a href="https://leetcode.com/u/Pushpenderrajput/">
+<img src="https://leetcard.jacoblin.cool/pushpenderrajput?theme=wtf&font=Sunflower&ext=heatmap"></a>
+  </div>
 <h2><a href="https://ps-rajput.netlify.app/">My portfolio</a></h2>
 
 <p align="left"> <a href="https://twitter.com/Rajput__PS" target="blank"><img src="https://img.shields.io/twitter/follow/Pushpender Rajput?logo=twitter&style=for-the-badge" alt="devanshe15" /></a> </p>
