@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pushpender Rajput</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
  <div align="center">
 <img src="https://media.giphy.com/media/zkRQ24mPZ1HvHj9pZ6/giphy.gif" width="300" alt="jokes GIF">
  </div>
