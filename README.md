@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/Rajput__PS" target="blank"><img src="https://img.shields.io/twitter/follow/Pushpender Rajput?logo=twitter&style=for-the-badge" alt="devanshe15" /></a> </p>
 
--  <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="35" height="35"/>  I’m currently learning **MERN Stack.**
+-  <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="35" height="35"/>  I’m currently learning **Java Backend Development (Springboot).**
 - <img src="https://media.giphy.com/media/RlOAlt0Qmsw4CTIELN/giphy.gif" height="45" width="40"/> How to reach me **pushpenderrajputsp@gmail.com**
 
 
